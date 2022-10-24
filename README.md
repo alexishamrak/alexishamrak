@@ -1,4 +1,8 @@
-### Hello! My name is Alexis Hamrak 👋
+### Hello! My name is Alexis Hamrak 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 😄 My pronouns are *she/her*
 
