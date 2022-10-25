@@ -19,12 +19,13 @@
 
 
 # Fun Facts About Me
-🔭 I love learning about space and founded the Schulich Space Rover Team at the University of Calgary: [SSRT Website] (https://ucalgaryrover.weebly.com)
-<div id="ssrt">
+🔭 I love learning about space and founded the Schulich Space Rover Team at the University of Calgary:
+<div id="ssrt" align="center">
     <a href="https://ucalgaryrover.weebly.com">
         <img src="https://img.shields.io/badge/SSRT%20Website-orange"/>
     </a>
 </div>
+
 
 🎠 I am a **huge** Disney fan and love visiting the parks; they are what inspired me to do engineering!
 
