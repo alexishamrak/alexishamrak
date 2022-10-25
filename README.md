@@ -1,7 +1,7 @@
 <h3>
   Hello! My name is Alexis
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 
 😄 My pronouns are *she/her*
 
@@ -36,7 +36,7 @@
 
 ---
 
-# Fun Facts About Me
+## Fun Facts About Me
 🔭 I love learning about space and founded the Schulich Space Rover Team at the University of Calgary:
 <div id="ssrt">
     <a href="https://ucalgaryrover.weebly.com">
