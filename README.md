@@ -22,7 +22,7 @@
 🔭 I love learning about space and founded the Schulich Space Rover Team at the University of Calgary: [SSRT Website] (https://ucalgaryrover.weebly.com)
 <div id="ssrt">
     <a href="https://ucalgaryrover.weebly.com">
-        <img src="https://img.shields.io/badge/<SSRT>-<SSRT Website>-<orange>/>
+        <img src=["https://img.shields.io/badge/<SSRT>-<SSRT Website>-<orange>](https://img.shields.io/badge/SSRT-SSRT%20Website-orange)/>
     </a>
 </div>
 
